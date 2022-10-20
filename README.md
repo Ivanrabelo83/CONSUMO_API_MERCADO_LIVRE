@@ -1,10 +1,43 @@
-# Getting Started with Create React App
+# LOJA VIRTUAL 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Meu Portfólio 👨‍💻 [https://tiny-semifreddo-f111bd.netlify.app/]
 
-## Available Scripts
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Ivanrabelo83/CONSUMO_API_MERCADOLIVRE/blob/master/LICENCE)
 
-In the project directory, you can run:
+Utilizacao de react.js e LocalStorage para simulação de loja virtual.
+
+## Tela de Login
+
+![TELA DE LOGIN](https://raw.githubusercontent.com/Ivanrabelo83/CONSUMO_API_MERCADO_LIVRE/main/src/assets/1.JPG)
+
+
+## Tela da Loja
+
+![TELA DE LOGIN](https://raw.githubusercontent.com/Ivanrabelo83/CONSUMO_API_MERCADO_LIVRE/main/src/assets/2.JPG)
+
+## Tela Carrinho
+
+![TELA DE LOGIN](https://raw.githubusercontent.com/Ivanrabelo83/CONSUMO_API_MERCADO_LIVRE/main/src/assets/3.JPG)
+
+## Tela Load da Compra
+
+![TELA DE LOGIN](https://raw.githubusercontent.com/Ivanrabelo83/CONSUMO_API_MERCADO_LIVRE/main/src/assets/4.JPG)
+
+
+## Tela Compra Finalizada
+
+![TELA DE LOGIN](https://raw.githubusercontent.com/Ivanrabelo83/CONSUMO_API_MERCADO_LIVRE/main/src/assets/5.JPG)
+
+## SIMULAÇÃO DE COMPRA
+
+![TELA DE LOGIN](https://raw.githubusercontent.com/Ivanrabelo83/CONSUMO_API_MERCADO_LIVRE/main/src/assets/GIF%2020-10-2022%2014-12-07.gif)
+
+## Front end
+- HTML / CSS / ReactJS
+
+
+## Implantação em produção
+- Front end web: Netlify
 
 ### `npm start`
 
